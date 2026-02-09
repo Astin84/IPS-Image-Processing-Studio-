@@ -201,11 +201,6 @@ This helps students connect **theory with implementation**.
 
 ---
 
-## 📄 License
-
-This project is released under the **MIT License**  
-Free to use for educational and academic purposes.
-
 ---
 
 ## 🤝 Contributions
